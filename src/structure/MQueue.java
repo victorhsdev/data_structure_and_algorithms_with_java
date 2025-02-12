@@ -6,7 +6,7 @@ public class MQueue {
   
   public static void run() {
 
-		System.out.println("\n==== Queue ====\n");
+	System.out.println("\n==== Queue ====\n");
 
     /*
      * Queue = FIFO data Structure. First-In First-Out (ex: A line of people)
